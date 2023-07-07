@@ -4,29 +4,29 @@
         "id": 1,
         "name": "Executive Room",
         "price": "₦17,000 / per night",
-        "description": "Pediatric dentists specialize in providing comprehensive dental care for infants, children, adolescents, and individuals with special healthcare needs. Their job involves preventive care, dental examinations, diagnosis and treatment of dental conditions in children, behavior management techniques, addressing special healthcare needs, handling dental emergencies, dental education and counseling for parents, and collaborating with other healthcare professionals. They focus on promoting oral health, early intervention, and creating positive dental experiences for children.",
-        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/3.jpg?raw=true"
+        "description": "The hotel room is fitted with air conditioning, a smart TV, a fridge, a fan, a wardrobe, and a bathroom. It offers comfort and convenience for a pleasant stay.",
+        "photo": "https://github.com/itradebtc/liciaimages/blob/main/Executive.png?raw=true"
       },
       {
         "id": 2,
         "name": "Exclusive Room",
         "price": "₦15,000 / per night",
-        "description": "Pediatric dentists specialize in providing comprehensive dental care for infants, children, adolescents, and individuals with special healthcare needs. Their job involves preventive care, dental examinations, diagnosis and treatment of dental conditions in children, behavior management techniques, addressing special healthcare needs, handling dental emergencies, dental education and counseling for parents, and collaborating with other healthcare professionals. They focus on promoting oral health, early intervention, and creating positive dental experiences for children.",
-        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/3.jpg?raw=true"
+        "description": "The hotel room is fitted with air conditioning, a smart TV, a fridge, a fan, a wardrobe, and a bathroom. It offers comfort and convenience for a pleasant stay.",
+        "photo": "https://github.com/itradebtc/liciaimages/blob/main/Exclusive.png?raw=true"
       },
       {
         "id": 3,
         "name": "Luxury Room",
         "price": "₦13,000 / per night",
-        "description": "Pediatric dentists specialize in providing comprehensive dental care for infants, children, adolescents, and individuals with special healthcare needs. Their job involves preventive care, dental examinations, diagnosis and treatment of dental conditions in children, behavior management techniques, addressing special healthcare needs, handling dental emergencies, dental education and counseling for parents, and collaborating with other healthcare professionals. They focus on promoting oral health, early intervention, and creating positive dental experiences for children.",
-        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/3.jpg?raw=true"
+        "description": "The hotel room is fitted with air conditioning, a smart TV, a fridge, a fan, a wardrobe, and a bathroom. It offers comfort and convenience for a pleasant stay.",
+        "photo": "https://github.com/itradebtc/liciaimages/blob/main/Luxury.png?raw=true"
       },
       {
         "id": 4,
         "name": "Standard Room",
         "price": "₦12,000 / per night",
-        "description": "Pediatric dentists specialize in providing comprehensive dental care for infants, children, adolescents, and individuals with special healthcare needs. Their job involves preventive care, dental examinations, diagnosis and treatment of dental conditions in children, behavior management techniques, addressing special healthcare needs, handling dental emergencies, dental education and counseling for parents, and collaborating with other healthcare professionals. They focus on promoting oral health, early intervention, and creating positive dental experiences for children.",
-        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/3.jpg?raw=true"
+        "description": "The hotel room is fitted with air conditioning, a smart TV, a fridge, a fan, a wardrobe, and a bathroom. It offers comfort and convenience for a pleasant stay.",
+        "photo": "https://github.com/itradebtc/liciaimages/blob/main/Standard.png?raw=true"
       }
         ]
 }
