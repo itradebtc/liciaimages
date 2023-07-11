@@ -1,0 +1,36 @@
+{
+    "rooms": [
+       {
+        "id": 1,
+        "name": "Executive Room",
+        "folder": "Executive",
+        "price": "₦17,000 / per night",
+        "description": "The hotel room is fitted with air conditioning, a smart TV, a fridge, a fan, a wardrobe, and a bathroom. It offers comfort and convenience for a pleasant stay.",
+        "photo": "https://github.com/itradebtc/liciaimages/blob/main/executive.JPG?raw=true"
+      },
+      {
+        "id": 2,
+        "name": "Exclusive Room",
+        "folder": "Exclusive",
+        "price": "₦15,000 / per night",
+        "description": "The hotel room is fitted with air conditioning, a smart TV, a fridge, a fan, a wardrobe, and a bathroom. It offers comfort and convenience for a pleasant stay.",
+        "photo": "https://github.com/itradebtc/liciaimages/blob/main/exclusive.JPG?raw=true"
+      },
+      {
+        "id": 3,
+        "name": "Luxury Room",
+        "folder": "Luxury",
+        "price": "₦13,000 / per night",
+        "description": "The hotel room is fitted with air conditioning, a smart TV, a fridge, a fan, a wardrobe, and a bathroom. It offers comfort and convenience for a pleasant stay.",
+        "photo": "https://github.com/itradebtc/liciaimages/blob/main/luxury.JPG?raw=true"
+      },
+      {
+        "id": 4,
+        "name": "Standard Room",
+        "folder": "Standard",
+        "price": "₦12,000 / per night",
+        "description": "The hotel room is fitted with air conditioning, a smart TV, a fridge, a fan, a wardrobe, and a bathroom. It offers comfort and convenience for a pleasant stay.",
+        "photo": "https://github.com/itradebtc/liciaimages/blob/main/standard.JPG?raw=true"
+      }
+        ]
+}
